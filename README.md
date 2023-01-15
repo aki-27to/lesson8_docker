@@ -31,8 +31,8 @@
 
 ## hands-onの実施結果
 
+<img width="762" alt="スクリーンショット 2023-01-15 21 38 43" src="https://user-images.githubusercontent.com/120763272/212542297-fe3db7bc-4d14-4bcd-a485-192cc6da9fbf.png">
+
+
 <img width="762" alt="スクリーンショット 2023-01-15 21 38 59" src="https://user-images.githubusercontent.com/120763272/212542234-f70525a7-5599-45c9-9254-e584ced1f71f.png">
-
-
-<img width="1093" alt="スクリーンショット 2023-01-15 17 39 17" src="https://user-images.githubusercontent.com/120763272/212542237-63acf5dd-22c1-4e89-b0d1-b91712ed8975.png">
 
