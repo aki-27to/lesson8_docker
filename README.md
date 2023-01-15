@@ -31,6 +31,8 @@
 
 ## hands-onの実施結果
 
+既に一度「insert into movies (name, director) values ("ゴッドファーザー", "フランシス・フォード・コッポラ");」を実施しておりました。
+
 <img width="762" alt="スクリーンショット 2023-01-15 21 38 43" src="https://user-images.githubusercontent.com/120763272/212542297-fe3db7bc-4d14-4bcd-a485-192cc6da9fbf.png">
 
 
