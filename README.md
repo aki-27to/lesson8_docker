@@ -11,7 +11,7 @@
 
 1.__「docker compose up -d」__---コンテナの起動。
 
-2.__「docker ps」__---実行中のコンテナのみを確認。-a or -allで全部。
+2.__「docker ps」__---実行中のコンテナのみを確認。後ろに　「-a」 or 「-all」をつけると全てを表示。
 
 3.__「docker compose exec db mysql -uroot -p」__---rootユーザでMySQL(データベース)にログイン。-pの次に必ずパスワードを入れる。
 
